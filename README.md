@@ -57,7 +57,7 @@ I'm Muhammad Awais, a passionate data scientist with expertise in Data preproces
 #
 
 <details>
-<summary><b>📊 Stats</b></summary>
+<summary><b><h3>📊 Stats</h3></b></summary>
 <div align="center">
 <img src='https://github-readme-stats.vercel.app/api?username=muhammad3245571106&show_icons=true&theme=gruvbox&count_private=true&line_height=40'  align="left" />
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad3245571106&theme=gruvbox&hide_langs_below=5' />
