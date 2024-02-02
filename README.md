@@ -57,13 +57,13 @@ I'm Muhammad Awais, a passionate data scientist with expertise in Data preproces
 #
 
 <details>
-<summary><b><h3>📊 Stats</h3></b></summary>
-<div align="center">
-<img src='https://github-readme-stats.vercel.app/api?username=muhammad3245571106&show_icons=true&theme=gruvbox&count_private=true&line_height=40'  align="left" />
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad3245571106&theme=gruvbox&hide_langs_below=5' />
-<img src='https://streak-stats.demolab.com?user=muhammad3245571106&theme=gruvbox&border_radius=4.5' align="center"/>
-<img src='https://github-profile-trophy.vercel.app/?username=muhammad3245571106&theme=gruvbox&row=1&column=6&margin-w=15' align="center"/>
-</div>
+  <summary><b><h3>📊 Stats</h3></b></summary>
+  <div align="center">
+  <img src='https://github-readme-stats.vercel.app/api?username=muhammad3245571106&show_icons=true&theme=gruvbox&count_private=true&line_height=40'  align="left" />
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad3245571106&theme=gruvbox&hide_langs_below=5' />
+  <img src='https://streak-stats.demolab.com?user=muhammad3245571106&theme=gruvbox&border_radius=4.5' align="center"/>
+  <img src='https://github-profile-trophy.vercel.app/?username=muhammad3245571106&theme=gruvbox&row=1&column=6&margin-w=15' align="center"/>
+  </div>
 </details>
 
 
